@@ -128,10 +128,7 @@ sudo apt install wireshark
 - Mutual Information + K-NN: https://www.kaggle.com/code/nawfal24/navbot25-ac-mi-knn
 - CNN-LSTM Model: https://www.kaggle.com/code/nawfal24/navbot25-ac-cnn-lstm
 - CNN-MHA Model: https://www.kaggle.com/code/nawfal24/navbot25-ac-cnn-mha
-
-### Attack Identification Models (NAVBOT25):
-- Special AI Model: https://www.kaggle.com/code/nawfal24/navbot25-ai-mi-dt
-
+  
 ================================================================================
 
 ## SOURCE CODE ACCESS
