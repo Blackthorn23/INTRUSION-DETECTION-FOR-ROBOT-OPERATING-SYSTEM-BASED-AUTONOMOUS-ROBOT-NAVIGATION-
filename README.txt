@@ -97,7 +97,6 @@ sudo apt install wireshark
 5. Use the CSV files directly for training and testing
 
 ================================================================================
-#SOURCE CODES
 
 ## AI MODELS & KAGGLE NOTEBOOKS
 
@@ -135,3 +134,9 @@ sudo apt install wireshark
 
 ================================================================================
 
+## SOURCE CODE ACCESS
+
+This project was implemented entirely using Jupyter notebooks hosted on **Kaggle**.  
+There is no separate `.py` script or standalone source code directory. All modeling, training, testing, and analysis were performed within these Kaggle notebooks.
+
+================================================================================
